@@ -1,0 +1,8 @@
+	Starting this November, two towns in the Netherlands, Wageningen and Ede, will be the first places to use autonomous public transportation vehicles on public roads.  The vehicles, small six-seat shuttles will be used to transport people between the two towns and around Wageningen University.  They are made by the company EasyMile, which has already provided similar vehicles for use in closed and controlled environments, but this will be the first time they will be used on public roads where they will need to coexist with normal traffic.  They use a combination of GPS and cameras to navigate, and use the cameras as well as radar and lasers for obstacle detection.
+	
+	At least at the start, they will be taking it safe with the shuttles.  They will be limited to about 15 miles per hour, won't run during bad weather, at night or during rush hour and will be kept to fixed paths.  Also there will be people monitoring the shuttles at all times from a central control room.  But unlike the driverless cars being tested by Google and others, there won't be any driver in the vehicles. 
+	
+	Besides the obvious of utilizing self-driving technology for existing public buses, more interesting is the potential for these small autonomous shuttles as part of a public transportation ecosystem.  Driverless cars such as the Google car might be where we're headed, but they still pose the same environmental and congestion problems that we have today with large numbers of people commuting by themselves in their own cars.  Small driverless shuttles that can be shared by several people could be an answer in places where a whole bus line doesn't make sense becuase there isn't enough ridership.  
+	
+	Sources:
+	
